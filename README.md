@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi Nombre es Daniel Alejandro</h1>
 <h3 align="center">Actualmente he concluido mi carrera como Técnico Superior en el Área de Desarrollo de Software de Tecnologías de la Información y me encuentro cursando la Ingenieria en Gestion y Desarrollo de Software Soy Full stack en el framework de Laravel, he tomado algunos cursos y lo he utilizado desde la versión 7, hasta la actual que es la 9, Tengo 1 año de experiencia como desarrollador de laravel, me gusta ir creando proyectos nuevos y tener nuevos retos para resolver</h3>
 
-- 🌱 actualmente estoy aprendiendo **Laravel 9, cosas mas profundas y websockets**
+- 🌱 actualmente estoy aprendiendo **Laravel 9(cosas mas profundas) y websockets**
 
 - 👨‍💻 Portafolio de proyectos [https://daniel-alejandro-molar.netlify.app/](https://daniel-alejandro-molar.netlify.app/)
 
